@@ -7312,14 +7312,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1105659180340916444, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+      propertyPath: m_text
+      value: Lobby Connection
+      objectReference: {fileID: 0}
+    - target: {fileID: 1105659180340916444, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103954100841597529, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5137055805878071812, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
       propertyPath: GameModeIdentifier
       value: Platformer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487651040494476765, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8200954117154530962, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
       propertyPath: m_Name
       value: UIGameMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 8548095221140345767, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2b6f1f3f8e10f9d4c8255c31f9ed812b, type: 3}
     - target: {fileID: 8570714360653913003, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
@@ -7331,6 +7351,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 7147877379926654758, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
+    - {fileID: 5487651040494476765, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8ef8c98852a6f494c97ab4073099c9a6, type: 3}
